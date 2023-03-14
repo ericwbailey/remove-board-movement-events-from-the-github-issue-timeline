@@ -6,7 +6,9 @@ I made this extension because I find the chatter these events generate to be dis
 
 ## How to use
 
-Load this as an unpacked extension in your browser of choice. Currently this extension **only** supports browsers that support the Chrome Extension Manifest V3 format.
+Load this as an unpacked extension in your browser of choice. Target [the child `Source/` folder](https://github.com/ericwbailey/remove-board-movement-events-from-the-github-issue-timeline/tree/main/Source), and not the parent repo folder.
+
+Currently, this extension **only** supports browsers that support the Chrome Extension Manifest V3 format.
 
 Click the extension's icon to remove board movement events. Click again to restore them. Neat!
 
