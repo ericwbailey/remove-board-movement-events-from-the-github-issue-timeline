@@ -22,4 +22,4 @@ The extension:
 
 ## Support
 
-I will probably not publish this to browser extension registires. I also welcome enhancements and improvements for the known issues, but will likely not be working on them anytime soon. 
+I will probably not publish this to browser extension registries. I also welcome enhancements and improvements for the known issues, but will likely not be working on them anytime soon. 
