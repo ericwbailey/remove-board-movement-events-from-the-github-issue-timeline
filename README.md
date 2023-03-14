@@ -18,7 +18,7 @@ The extension:
 - Does not persist state across duplicate tabs/windows.
 - Does not store last known state.
 - Is not scoped to `github.com/*` sites.
-- Will not work on GitHub sites where the Primer `d-none` CSS utility class is not present.
+- Will not work on GitHub sites where [the Primer `d-none` CSS utility class](https://primer.style/css/utilities/layout#display) is not present.
 
 ## Support
 
