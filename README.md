@@ -8,7 +8,7 @@ I made this extension because I find the chatter these events generate to be dis
 
 Load this as an unpacked extension in your browser of choice. Currently this extension **only** supports browsers that support the Chrome Extension Manifest V3 format.
 
-Click the extension's icon to remove board movement events. Click again to restore them.
+Click the extension's icon to remove board movement events. Click again to restore them. Neat!
 
 ## Known issues
 
@@ -17,6 +17,8 @@ The extension:
 - Uses Manifest V3 (ew).
 - Does not persist state across duplicate tabs/windows.
 - Does not store last known state.
+- Is not scoped to `github.com/*` sites.
+- Will not work on GitHub sites where the Primer `d-none` CSS utility class is not present.
 
 ## Support
 
